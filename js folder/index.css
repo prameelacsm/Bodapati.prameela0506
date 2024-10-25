@@ -1,0 +1,18 @@
+.inner-card{
+    text-align: center;
+    border: solid;
+    width: 50vw;
+}
+.card{
+    padding-left: 25vw;
+    padding-top: 12.5vw;
+}
+input{
+    width: 180px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+.button1{
+    border-radius: 15px;
+
+}
